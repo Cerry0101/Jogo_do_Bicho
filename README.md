@@ -1,2 +1,2 @@
-# Jogo_do_Bixo
-Jogo do Bixo em Reactjs 
+# Jogo_do_Bicho
+Jogo do Bicho em Reactjs 
